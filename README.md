@@ -12,6 +12,6 @@
  
 **Data modeling:**
 .
-   Predicted the hourly sales of New York Citi Bike based on weather parameters using Random Forest algorithm
+  Predicted the hourly sales of New York Citi Bike based on weather parameters using Random Forest algorithm
    
-   Mean Absolute Percentage Error of the overall perdiction system : 33.3%
+  Mean Absolute Percentage Error of the overall perdiction system : 33.3%
